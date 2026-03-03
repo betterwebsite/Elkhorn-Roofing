@@ -1,20 +1,20 @@
 module.exports = {
-    name: "Code Stitch Web Designs",
-    email: "help@codestitch.app",
-    phoneForTel: "555-779-4407",
-    phoneFormatted: "(555) 779-4407",
+    name: "Elkhorn Roofing",
+    email: "sales@elkhornroofing.com",
+    phoneForTel: "918-471-7790",
+    phoneFormatted: "(918) 471-7790",
     address: {
-        lineOne: "First Address Line",
-        lineTwo: "Second Address Line",
-        city: "Denver",
-        state: "CO",
-        zip: "80206",
+        lineOne: "30515 S County Rd",
+        
+        city: "4030 Kinta",
+        state: "OK",
+        zip: "74552",
         country: "US",
         mapLink: "https://maps.app.goo.gl/TEdS5KoLC9ZcULuQ6",
     },
     socials: {
         facebook: "https://www.facebook.com/",
-        instagram: "https://www.instagram.com/",
+        instagram: "https://www.instagram.com/elkhorn_roofing/",
     },
     //! Make sure you include the file protocol (e.g. https://) and that NO TRAILING SLASH is included
     domain: "https://www.example.com",

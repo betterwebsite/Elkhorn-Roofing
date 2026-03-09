@@ -6,7 +6,7 @@ module.exports = {
     address: {
         lineOne: "30515 S County Rd",
         
-        city: "4030 Kinta",
+        city: "4350 Kinta",
         state: "OK",
         zip: "74552",
         country: "US",

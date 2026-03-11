@@ -1,6 +1,6 @@
 module.exports = {
     name: "Elkhorn Roofing",
-    email: "sales@elkhornroofing.com",
+    email: "sales@elkhornroofingok.com",
     phoneForTel: "918-471-7790",
     phoneFormatted: "(918) 471-7790",
     address: {
